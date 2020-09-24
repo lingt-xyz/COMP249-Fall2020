@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface OrangeJuice {
+public interface OrangeJuice {
+    void getOrangeJuiceInfo();
 }

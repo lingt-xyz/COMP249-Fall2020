@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface JuiceFactory {
+public interface JuiceFactory {
+    AppleJuice createAppleJuice();
+    OrangeJuice createOrangeJuice();
 }

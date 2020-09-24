@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface AppleJuice {
+public interface AppleJuice {
+    void getAppleJuiceInfo();
 }
