@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/COMP352_A3.iml" filepath="$PROJECT_DIR$/COMP352_A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanyiheng/yanyiheng.iml" filepath="$PROJECT_DIR$/yanyiheng/yanyiheng.iml" />
+    </modules>
+  </component>
+</project>
